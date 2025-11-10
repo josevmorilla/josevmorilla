@@ -4,8 +4,7 @@
 
 I’m a **Computer Science student at Champlain College Saint-Lambert**.
 
-- Currently working on [Champlain Pet Clinic](https://github.com/cgerard321/champlain_petclinic) as part of the inventory team  
-- Recent projects: [Quake Fortress HUD](https://github.com/josevmorilla/qf-hud), [Enrollment System](https://github.com/josevmorilla/enrollment-system)  
+- Recent projects: [Quake Fortress HUD](https://github.com/josevmorilla/qf-hud), [Great Music LLM](https://github.com/josevmorilla/Great-Music-LLM)  
 - Interests: Software Engineering, Cybersecurity, Game UI + Design  
 - Outside tech: Video games (TF2, Open Fortress, Deadlock), Music, Swimming  
 - Reach me: [Email me](mailto:josevillegasmori@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jose-villegas-99a172282/)
