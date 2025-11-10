@@ -4,7 +4,7 @@
 
 I’m a **Computer Science student at Champlain College Saint-Lambert**.
 
-- Recent projects: [Quake Fortress HUD](https://github.com/josevmorilla/qf-hud), [Great Music LLM](https://github.com/josevmorilla/Great-Music-LLM)  
+- Recent projects: [Quake Fortress HUD](https://github.com/josevmorilla/qf-hud) - [Great Music LLM](https://github.com/josevmorilla/Great-Music-LLM)  
 - Interests: Software Engineering, Cybersecurity, Game UI + Design  
 - Outside tech: Video games (TF2, Open Fortress, Deadlock), Music, Swimming  
 - Reach me: [Email me](mailto:josevillegasmori@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jose-villegas-99a172282/)
