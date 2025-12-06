@@ -1,4 +1,4 @@
-<h1><b>Hi there, I'm </b><a href="https://github.com/josevmorilla">Jose Villegas</a></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/josevmorilla">Jose</a></h1>
 
 **About Me**
 
