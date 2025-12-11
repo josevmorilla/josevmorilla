@@ -2,7 +2,7 @@
 
 **About Me**
 
-I’m a **Computer Science student at Champlain College Saint-Lambert**.
+I’m a **College Computer Science student**.
 
 - Recent projects: [Quake Fortress HUD](https://github.com/josevmorilla/qf-hud) - [Great Music LLM](https://github.com/josevmorilla/Great-Music-LLM)  
 - Interests: Software Engineering, Cybersecurity, Game UI + Design  
