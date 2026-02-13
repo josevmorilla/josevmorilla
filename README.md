@@ -4,7 +4,7 @@
 
 I’m a **College Computer Science student**.
 
-- Recent projects: [Quake Fortress HUD](https://github.com/josevmorilla/qf-hud) - [Great Music LLM](https://github.com/josevmorilla/Great-Music-LLM)  
+- Recent projects: [Les Constructions Dominic Cyr](https://github.com/LCDCI/Les-Constructions-Dominic-Cyr) - [Digital Portfolio](https://github.com/josevmorilla/digital-portfolio)  
 - Interests: Software Engineering, Cybersecurity, Game UI + Design  
 - Outside tech: Video games (TF2, Open Fortress, Deadlock), Music, Swimming  
 - Reach me: [Email me](mailto:josevillegasmori@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jose-villegas-morilla/)
